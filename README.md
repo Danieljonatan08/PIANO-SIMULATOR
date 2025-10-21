@@ -1,11 +1,9 @@
-
-# 🎹 Piano Simulator
+# 🎹 Piano Simulation
 
 Simulador de piano virtual feito com HTML, CSS e JavaScript. Permite tocar notas musicais usando o teclado do computador, ajustar o volume e alternar a exibição das teclas.
 
-## 📸 Preview
-
-![Piano Simulation](https://via.placeholder.com/800x400.png?text=Virtual+Piano+Preview)
+🔗 **Acesse o projeto online:**  
+👉 [Clique aqui para abrir o Piano Simulation](https://danieljonatan08.github.io/PIANO-SIMULATOR/)
 
 ## 🚀 Funcionalidades
 
@@ -14,13 +12,17 @@ Simulador de piano virtual feito com HTML, CSS e JavaScript. Permite tocar notas
 - Alternância de exibição das teclas
 - Suporte ao teclado físico para tocar notas
 
-## 🛠️ Tecnologias Utilizadas
+## 🧪 Log de Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Google Fonts (Poppins)
-- Live Server (para desenvolvimento local)
+| Tecnologia     | Finalidade                                                                 |
+|----------------|----------------------------------------------------------------------------|
+| **HTML5**      | Estrutura da interface e marcação dos elementos do piano                   |
+| **CSS3**       | Estilização visual, layout responsivo e design das teclas e controles      |
+| **JavaScript** | Lógica de funcionamento, interação com o teclado e controle de áudio       |
+
+## 📦 Estrutura do Projeto
+
+
 
 ## 📦 Estrutura do Projeto
 
